@@ -83,7 +83,6 @@
                 <span class="brand-text font-weight-light"><b>Dashboard Admin</b></span>
             </a>
 
-            <!-- Sidebar -->
             <div class="sidebar">
 
                 <!-- SidebarSearch Form -->
