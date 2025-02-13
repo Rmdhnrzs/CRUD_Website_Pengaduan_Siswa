@@ -13,7 +13,11 @@
 <body>
 
     @include('header')
+<<<<<<< HEAD
 {{-- Lorem ipsum  --}}
+=======
+
+>>>>>>> d3aa9bc (hello world)
 
     {{-- HERO MASTER --}}
     <section id="master-hero">
